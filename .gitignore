@@ -1,0 +1,8 @@
+# KiCad backup files
+*-backups/
+
+# KiCad cache files
+fp-info-cache
+
+# KiCad local preferences
+*.kicad_prl

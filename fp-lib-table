@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IR2101PBF")(type "KiCad")(uri "${KIPRJMOD}/IR2101PBF.pretty")(options "")(descr ""))
+  (lib (name "IRFZ44NPBF")(type "KiCad")(uri "${KIPRJMOD}/IRFZ44NPBF.pretty")(options "")(descr ""))
+)
